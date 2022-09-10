@@ -1,7 +1,16 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+module.exports = {
   reactStrictMode: true,
-  swcMinify: true,
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
+  // async redirects() {
+  //   return [
+  //     {
+  //       source: '/qr',
+  //       destination: '/',
+  //       permanent: false,
+  //     },
+  //   ]
+  // }
 }
-
-module.exports = nextConfig

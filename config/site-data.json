@@ -1,0 +1,20 @@
+{
+  "url": "https://chackbaynursery.com/",
+  "name": "Chackbay Nursery & Lanscaping",
+  "description": "Chackbay Nursery & Landscaping, Inc. is a landscape design firm proudly serving and maintaining properties all across Southern Louisiana with top-tier terrain transformation services for over XX years as an industry-leading environmental architect",
+  "abbreviation": "CNL",
+  "themeColor": "#ebede8",
+  "mainColor": "#202822",
+  "altColor": "#28231c",
+  "logo": "/logo.png",
+  "image": "/hero.png",
+  "imageAlt": "Chackbay Nursery & Lanscaping Logo",
+  "instagramHandle": "@ChackbayNursery",
+  "instagramUrl": "https://instagram.com/ChackbayNursery",
+  "facebookHandle": "@ChackbayNursery",
+  "facebookUrl": "https://facebook.com/ChackbayNursery",
+  "twitterHandle": "@ChackbayNursery",
+  "twitterCard": "summary_large_image",
+  "twitterUrl": "https://twitter.com/ChackbayNursery",
+  "yelpUrl": "https://www.yelp.com/biz/chackbay-nursery-and-landscaping-thibodaux"
+}

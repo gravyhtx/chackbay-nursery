@@ -1,7 +1,16 @@
-import '../styles/globals.css'
+import React from 'react';
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+import '../styles/materialize.css';
+import '../styles/animate.css';
+import '../styles/fonts.css';
+import '../styles/globals.css';
+
+function App({ Component, pageProps }) {
+  return (
+  <React.StrictMode>
+  <Component {...pageProps} />
+  </React.StrictMode>
+  )
 }
 
-export default MyApp
+export default App;
